@@ -1,3 +1,5 @@
+Embedded Software/System Architect with strong background in Linux
+
 - 👋 Hi, I’m @jakubkunert
 - 👀 I’m interested in AI, FOSS, Embedded Linux, SW Architecture
 - 🌱 I’m currently learning AI
